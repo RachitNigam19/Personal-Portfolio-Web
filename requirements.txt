@@ -45,13 +45,10 @@ anaconda-catalogs
 
 anaconda-cloud-auth
 
-anaconda-navigator
-
 anaconda-project
 
 anaconda-toolbox
 
-anaconda_powershell_prompt
 
 anaconda_prompt
 
