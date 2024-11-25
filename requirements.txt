@@ -45,12 +45,7 @@ anaconda-catalogs
 
 anaconda-cloud-auth
 
-anaconda-project
-
 anaconda-toolbox
-
-
-anaconda_prompt
 
 annotated-types
 
